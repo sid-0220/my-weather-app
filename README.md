@@ -50,3 +50,4 @@ This Weather Forecast App is a graphical user interface (GUI) application built 
 - Copy weather data to the clipboard with the "Copy" button.
 
 - Automatically detect your location and view the weather forecast using the "Detect My City" button.
+  
